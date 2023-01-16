@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# environment file
+/.env
+
+/yarn-error.log
